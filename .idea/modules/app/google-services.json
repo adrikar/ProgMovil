@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675378991864",
+    "firebase_url": "https://dinnerready-5b047.firebaseio.com",
+    "project_id": "dinnerready-5b047",
+    "storage_bucket": "dinnerready-5b047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675378991864:android:51d2e78fe8427d9fb5a10d",
+        "android_client_info": {
+          "package_name": "com.example.dinnerready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675378991864-1fi1i3535p5ifiduechpmhl3vl7pfh5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dinnerready",
+            "certificate_hash": "04ecc2819306715b0dda06810dc4b0b490118219"
+          }
+        },
+        {
+          "client_id": "675378991864-lsoueou70ii0ig4nhj3am2g49bgc391e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBztaHB55HtWdSg2DMWouxKYR883LolVbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675378991864-lsoueou70ii0ig4nhj3am2g49bgc391e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
